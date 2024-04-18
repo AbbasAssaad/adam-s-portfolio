@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Adam Hussein - Home Page</title>
+    <link rel="stylesheet" href="adam2.css">
+</head>
+<body>
+    <header>
+        <h1>I. Home Page :</h1>
+    </header>
+    
+    <section id="brief-introduction">
+        <h2>Brief Introduction</h2>
+        <p>Adam Hussein</p>
+        <p>My name is Adam Hussein. I'm a 20-year-old half Lebanese and half French student. <br> My main interests are football, ski, luxury, and travel. <br>I’m finishing my bachelor at PSB and I’m going to enter the master program in alternance at Sup de Luxe Paris in September.</p>
+    </section>
+    
+    <section id="about-me">
+        <h2>II. About Me :</h2>
+        <img src="WhatsApp Image 2024-03-06 at 06.58.27_ffd66ae1.jpg" alt="person photo" width="500" height="500">
+        <div id="academic-background">
+            <h3>Academic Background:</h3>
+            <ul>
+                Collège protestan français in Beirut, Lebanon from 2006 to 2012. <br> <br> 
+                Ensemble Scolaire Privé Saint Pierre De La Mer in Saint Cyprien, 66750 Francefrom 2012 to 2013. <br> <br>
+                Ecole Primaire Le Plan in Roquefort Les Pins, 06330 France from 2013 to 2014. <br> <br>
+                College César in Roquefort Les Pins, 06330 France from 2014 to 2015. <br> <br>
+                Stanislas Cannes in Cannes, 06400 France from 2015 to 2018. <br> <br>
+                2 weeks Internship in the telecom sector at Monty Mobile in London, UK in 2017. <br> <br>
+                CIS College in Beirut, Lebanon from 2018 to 2019. <br> <br>
+                Lycée Rosa Luxembourg in Canet En Roussillon, 66140 France from 2019 to 2020. <br> <br>
+                Lycée Simone Veil in Valbonne, 66560 France from 2020 to 2021. <br> <br>
+                PSB BBA  in Paris 13, 75013 France  from 2021 till now 3 monts Internship in the digital banking sector at My Monty in Beirut, Lebanon in 2023
+            </ul>
+        </div>
+        <div id="skills :">
+            <h3>Skills :</h3>
+            <ol>
+                Speak 4 languages: French, Arabic, English, and Spanish.
+                Sociable <br> <br>
+                Persistant <br> <br>
+                Open mind <br> <br>
+                Ambitious <br> <br>
+                Athletic
+            </ol>
+        </div>
+        <div id="interests :">
+            <h3>Interests :</h3>
+            <ul>
+                Football <br> <br>
+                Luxury <br> <br>
+                Ski <br> <br>
+                Travels <br> <br>
+                Padel <br> <br>
+                Cinema <br> <br>
+                Music
+
+            </ul>
+        </div>
+    </section>
+    
+    <section id="III. projects :">
+        <h2>Projects</h2>
+        <div id="project-1">
+            <h3>Project 1: Clothing Brand that Supports Blind People</h3>
+            <p>I’m currently creating a clothing brand designed by my mother who is a graphic designer and a painter, for each t-shirt that we will design<br> <br> I will add a quote that will be written in normal letter and also in braille so blind people can read the text.<br><br> For each product sold, 20% of the benefits will be reversed to a blind association that I am still looking for.<br><br> Here are some examples of the brand t-shirts.</p>
+            <img src="Screenshot 2024-04-17 192530.png" alt="clothes photo">
+            <img src="Screenshot 2024-04-17 193117.png" alt="clothes photo">
+        </div>
+        <div id="project-2">
+            <h3>Project 2: Barbarc Paris for Olympic Games</h3>
+            <p>I'm also currently working on a project for the Olympic Games in Paris. I'm in the process of opening a temporary boutique for a well-known ice cream brand,<br><br> Barbarac Saint Tropez in Paris. Their ice cream is known for its authentic flavor,<br><br> which attracts well-known customers to Saint Tropez every summer. The specialty of the shop I'll be opening this summer during the Olympic Games will be that I'll<br><br> be selling only ice cream sticks - a first for Barbarac, who will be supplying them to me directly from their factory.<br><br> This exclusivity will enable me to stand out from the competition with ice creams that are easier to eat and transport and will also be quicker to sell as there will be no preparation of ice cream cones or pots.<br><br> I still have some issues with the rental of the shop preventing me from making the opening official.</p>
+            <img src="Screenshot 2024-04-17 193357.png" alt="Barbarc photo">
+        </div>
+    </section>
+    
+    <footer>
+        <h2>Contact :</h2>
+        <p>E-mail : adamhus2003@gmail.com</p>
+        <p>Phone Numbers : +33 6 43 33 76 71, +961 70 072 287</p>
+        <p>Linkedin: <a href="https://www.linkedin.com/in/adam-hussein-504251265/">Adam Hussein</a></p>
+    </footer>
+</body>
+</html>

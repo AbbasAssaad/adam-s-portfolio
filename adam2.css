@@ -1,0 +1,45 @@
+body {
+    background-color: #161f25;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; 
+}
+
+header, footer {
+    background-color: #0f2431;
+    color: #fff;
+    padding: 10px;
+}
+
+h1, h2, h3 {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+#projects {
+    background-color: #f2f2f2;
+    
+}
+
+#project-1, #project-2 {
+    margin-bottom: 20px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
